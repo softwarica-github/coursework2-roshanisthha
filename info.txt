@@ -1,0 +1,6 @@
+Welcome to Hamro Chatting System 
+Created by Roshani Shrestha (220084)
+Requirement:
+- Should have tkinter module properly installed
+- Should have a processor of at least 4 cores due to thread creation
+- PIL module should have install to work with images
